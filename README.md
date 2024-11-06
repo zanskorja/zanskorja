@@ -21,6 +21,3 @@ I am @zanurban, <br>Young full stack developer based in 📍 Slovenia - 🇸🇮
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zanurban&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->act: ...
--->
