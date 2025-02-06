@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am @zanurban, <br>Young full stack developer based in 📍 Slovenia - 🇸🇮. Currently I am studying computer science and information technologies at<br> [![FERI](https://tinyurl.com/2hpphb44)](https://feri.um.si/) 
+I am @zanskorja, <br>Young full stack developer based in 📍 Slovenia - 🇸🇮. Currently I am studying computer science and information technologies at<br> [![FERI](https://tinyurl.com/2hpphb44)](https://feri.um.si/) 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/žan-škorja) 
 
